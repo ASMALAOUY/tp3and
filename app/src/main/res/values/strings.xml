@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyApplication3</string>
+    <string name="screen2_title">Screen2</string>
+    <string name="btn_retour">Retour</string>
+</resources>
